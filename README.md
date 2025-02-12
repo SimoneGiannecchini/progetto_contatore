@@ -1,7 +1,7 @@
 # App Conteggio - Esercizio Start2Impact
 
 Un'app semplice per il conteggio sviluppata come esercizio per Start2Impact.
-
+Prova lìapplicazione da questo link https://simonegiannecchini.github.io/progetto_contatore/
 ## Indice
 
 1. [Panoramica](#panoramica)

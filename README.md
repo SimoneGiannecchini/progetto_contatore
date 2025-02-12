@@ -132,7 +132,7 @@ Vuoi contribuire? Segui questi passaggi:
 
 ## Licenza
 
-Questo progetto è concesso in licenza sotto la [Licenza MIT](LICENSE). Sentiti libero di modificarlo secondo le tue esigenze.
+Questo progetto è concesso in licenza sotto la [Licenza MIT](https://mit-license.org/)). Sentiti libero di modificarlo secondo le tue esigenze.
 
 ---
 

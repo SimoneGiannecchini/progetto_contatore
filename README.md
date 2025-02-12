@@ -23,7 +23,6 @@ L'obiettivo è fornire un esercizio pratico per comprendere i concetti base di s
 
 Caratteristiche principali:
 - Incremento e decremento del contatore con un clic.
-- Reset del contatore a zero.
 - Interfaccia minimalista e responsiva.
 
 ---

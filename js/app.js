@@ -1,15 +1,10 @@
-const counter = document.getElementById('counter');
-const decreaseButton = document.getElementById('decrease');
-const increaseButton = document.getElementById('increase');
-let count = 0;
-function updateCounter() {
-  counter.textContent = count;
-}
-decreaseButton.addEventListener('click', () => {
-  count--;
-  updateCounter();
+document.addEventListener('DOMContentLoaded', function () {
+  const counter = document.getElementById('counter');
+  document.getElementById('decrease').addEventListener('click', function () {
+      counter.textContent = parseInt(counter.textContent) - 1;
+  });
+  document.getElementById('increase').addEventListener('click', function () {
+      counter.textContent = parseInt(counter.textContent) + 1;
+  });
 });
-increaseButton.addEventListener('click', () => {
-  count++;
-  updateCounter();
-});
+
